@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [TryHackMe Defend and Analyze Phishing emails](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [TryHackMe Defend and Analyze Phishing emails](https://github.com/berlyndawilson1/Analyzing-Phishing-emails-lab)
 
 
 <h2>Certifications</h2>
@@ -18,4 +18,3 @@
 [twitter]: https://twitter.com/cyberlyn85
 [linkedin]: https://www.linkedin.com/in/berlynda-wilson/
 
--->
