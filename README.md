@@ -1,20 +1,17 @@
-<h1>Hi, I'm Berlynda! </h1>
+<h1>Hi, I'm Berlynda!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 System Administration Projects:</h2>
 
-  - [TryHackMe Defend and Analyze Phishing emails](https://github.com/berlyndawilson1/Analyzing-Phishing-emails-lab)
+- <b>Active Directory Home Lab </b>
+  - [Active Directory Using Azure Virtual Machines](https://github.com/berlyndawilson1/)
 
-
-<h2>Certifications</h2>
-
-- [Usable Security course University of Maryland College Park](https://coursera.org/share/f0e3de3212eb208795805d8b9ba398b1)
+- <b>Certification </b>
+  - [CompTIA Security+ Certified CE](https://www.credly.com/badges/73457ef2-88cf-4f5d-9d9c-928c07a31fe1/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="BerlyndaWilson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="BerlyndaWilson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/cyberlyn85
 [linkedin]: https://www.linkedin.com/in/berlynda-wilson/
-
