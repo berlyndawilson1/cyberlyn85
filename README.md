@@ -8,10 +8,11 @@
 - <b>Google Chrome Enterprise MSI Silent Installer Home Lab </b>
   - [MSI Silent Installer Build](https://github.com/berlyndawilson1/MSI-Silent-Install/blob/main/README.md)
 
-- <b>Windows Deployment Installation Home Lab </b>
+- <b>Windows Deployment Home Lab </b>
   - [MDT Installation](https://github.com/berlyndawilson1/Windows-Deployment-Setup)
   - [New Deployment Share Setup](https://github.com/berlyndawilson1/Deployment-Share-Creation)
   - [Operating System Deployment](https://github.com/berlyndawilson1/Deployment-Operating-System)
+  - [Task Sequence Creation](https://github.com/berlyndawilson1/Task-Sequence-Creation)
  
 - <b>Certification </b>
   - [CompTIA Security+ Certified CE](https://www.credly.com/badges/73457ef2-88cf-4f5d-9d9c-928c07a31fe1/public_url)
