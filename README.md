@@ -15,6 +15,9 @@
   - [Task Sequence Creation](https://github.com/berlyndawilson1/Task-Sequence-Creation)
   - [Boot Image Creation](https://github.com/berlyndawilson1/Boot-Images)
  
+  - <b>PowerShell Projects</b>
+  - [PowerShell Remote Access Setup](https://github.com/berlyndawilson1/PowerShell-Remote-Access)
+ 
 - <b>Certification </b>
   - [CompTIA Security+ Certified CE](https://www.credly.com/badges/73457ef2-88cf-4f5d-9d9c-928c07a31fe1/public_url)
 
