@@ -7,6 +7,9 @@
  
 - <b>Google Chrome Enterprise MSI Silent Installer Home Lab </b>
   - [MSI Silent Installer Build](https://github.com/berlyndawilson1/MSI-Silent-Install/blob/main/README.md)
+ 
+- <b>PDQ Deploy Process </b>
+  - [PDQ Deploy Software](https://github.com/berlyndawilson1/PDQ-Deployment-Software-Package)
 
 - <b>Windows Deployment Home Lab </b>
   - [MDT Installation](https://github.com/berlyndawilson1/Windows-Deployment-Setup)
